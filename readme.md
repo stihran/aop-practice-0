@@ -1,32 +1,9 @@
-### Java Template Repository
+Степанян Тігран
+Б2F301ДОН26 - 211
+https://github.com/stihran
+https://leetcode.com/u/stihran/
+https://www.hackerrank.com/profile/stepanian_tihran
 
-### compile
-
-```shell
-mvn compile
-```
-
-### clean
-
-```shell
-mvn clean
-```
-
-### test
-
-```shell
-mvn test
-```
-
-### reformat code
-
-```shell
-mvn spotless:apply
-```
-
-### check formatting
-
-```shell
-mvn spotless:check
-```
-
+java - version
+javac -version
+git --version
